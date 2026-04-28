@@ -1,3 +1,4 @@
+# зеркало для россии -i https://pypi.tuna.tsinghua.edu.cn/simpl
 # Работа с данными
 pandas==2.2.3
 numpy==2.1.3
